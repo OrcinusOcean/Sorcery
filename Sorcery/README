@@ -1,0 +1,4 @@
+A Hearth-Stone-Like Card Game for linux command line
+I already wrote a makefile. So you can use makefile to compile it.
+Using commmand ./sorcery to play it. 
+When you enter the game you can use input help to get more helps.
